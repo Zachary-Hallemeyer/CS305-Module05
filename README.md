@@ -10,4 +10,4 @@ This repository is to fulfill the CS305 module 5 assignment
 
 ## License 
 
-Licensed under the [MIT license](License).
+Licensed under the [MIT license](LICENSE).
