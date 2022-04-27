@@ -14,7 +14,9 @@ This repository is to fulfill the CS305 module 5 assignment
 
 ## Hypothetical Module
 
-Description of hypothetical module.
+Description of hypothetical module. Tasks are the following:
+  - Plan project
+  - Complete project
 
 ## License 
 
