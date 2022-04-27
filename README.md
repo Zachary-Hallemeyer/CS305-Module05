@@ -4,7 +4,7 @@
 
 This repository is to fulfill the CS305 module 5 assignment
 
-## Contributers
+## Contributors
 
 - Tyler Morales (tam499)
 
@@ -12,7 +12,6 @@ This repository is to fulfill the CS305 module 5 assignment
 
 Description of hypothetical module.
 
-## License 
+## License
 
 Licensed under the [MIT license](LICENSE).
-
