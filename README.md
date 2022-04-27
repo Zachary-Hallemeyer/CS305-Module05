@@ -8,6 +8,8 @@ This repository is to fulfill the CS305 module 5 assignment
 
 - Tyler Morales
 
+- Logan Samstag
+
 ## License 
 
 Licensed under the [MIT license](LICENSE).
