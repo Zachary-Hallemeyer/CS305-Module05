@@ -4,11 +4,17 @@
 
 This repository is to fulfill the CS305 module 5 assignment
 
-## Contributers
+## Contributors
 
-- Tyler Morales
-
+- Tyler Morales (tam499)
+  - Will work on planning the project
+   
 - Logan Samstag
+  - Will work with Tyler to plan the project   
+
+## Hypothetical Module
+
+Description of hypothetical module.
 
 ## License 
 
