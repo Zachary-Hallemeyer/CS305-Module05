@@ -13,3 +13,7 @@ This repository is to fulfill the CS305 module 5 assignment
 ## License 
 
 Licensed under the [MIT license](LICENSE).
+
+## Module Header 
+
+This module will help users of the application complete the assignment for module 5. 
